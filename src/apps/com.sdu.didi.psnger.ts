@@ -5,7 +5,7 @@ export default defineGkdApp({
   name: '滴滴出行',
 
   groups: [
-      enable: true,
+    enable: false ,
     {
       key: 1,
       name: '局部广告-打车页面右上角红包广告',
