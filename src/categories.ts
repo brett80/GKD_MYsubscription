@@ -64,7 +64,7 @@ export default defineGkdCategories([
     name: '其他',
     enable: false,
   },
-   {
+  {
     //应用内弹窗广告
     key: 11,
     name: '弹窗广告',
