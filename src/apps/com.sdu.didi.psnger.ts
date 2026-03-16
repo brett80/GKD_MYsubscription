@@ -3,9 +3,8 @@ import { defineGkdApp } from '@gkd-kit/define';
 export default defineGkdApp({
   id: 'com.sdu.didi.psnger',
   name: '滴滴出行',
-
   groups: [
-    enable: false ,
+    enable: false
     {
       key: 1,
       name: '局部广告-打车页面右上角红包广告',
